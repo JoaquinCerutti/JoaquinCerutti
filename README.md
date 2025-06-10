@@ -91,6 +91,6 @@
 
 <hr/>
 
-* Credit: Adapted from [Candida18](https://github.com/Candida18)
-* Last Edited on: {{fecha_actual}}
+
+* Last Edited on: 09-06-2025
 
