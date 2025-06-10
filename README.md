@@ -22,6 +22,10 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
   &emsp;
   <img alt="SQL" src="https://img.shields.io/badge/SQL-%2307405e.svg?logo=sqlite&logoColor=white">
+  &emsp;
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
+  &emsp;
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
 </p>
 
 ### 👉 Frontend Development
