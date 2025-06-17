@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Joaquin Cerutti <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+en+Sistemas+de+Información;Desarrollador+Full+Stack;Apasionado+por+la+tecnología+y+el+aprendizaje+continuo;Conocimiento+en+React+%26+NextJS&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+en+Sistemas+de+Información;Desarrollador+Full+Stack;Apasionado+por+la+tecnología;Conocimiento+en+React+%26+NextJS&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">Soy Ingeniero en Sistemas de Información, enfocado en el desarrollo full stack con tecnologías modernas. Me apasiona crear soluciones tecnológicas que generen impacto, aprender nuevas herramientas y colaborar en proyectos innovadores. Tengo conocimientos en desarrollo frontend con React y NextJS, y experiencia con lenguajes como Java, JavaScript, Python y SQL.</h4>
