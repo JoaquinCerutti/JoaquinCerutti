@@ -1,18 +1,18 @@
-<h1 align="center">Hi , I'm Joaquin Cerutti <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola 👋, soy Joaquin Cerutti <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+en+Sistemas+de+Información;Desarrollador+Full+Stack;Apasionado+por+la+tecnología;Conocimiento+en+React+%26+NextJS&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+en+Sistemas+de+Información;Desarrollador+Full+Stack;Apasionado+por+la+tecnología;Conocimientos+en+React+%26+NextJS&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Soy Ingeniero en Sistemas de Información, enfocado en el desarrollo full stack con tecnologías modernas. Me apasiona crear soluciones tecnológicas que generen impacto, aprender nuevas herramientas y colaborar en proyectos innovadores. Tengo conocimientos en desarrollo frontend con React y NextJS, y experiencia con lenguajes como Java, JavaScript, Python y SQL.</h4>
+<h4 align="center">Soy estudiante avanzado en ingeniería en sistemas de información, enfocado en el desarrollo full stack con tecnologías modernas. Me apasiona crear soluciones tecnológicas que generen impacto, aprender nuevas herramientas y colaborar en proyectos innovadores. Tengo conocimientos en desarrollo frontend con React y NextJS, y experiencia con lenguajes como Java, JavaScript, Python y SQL.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=joaquincerutti&label=Profile%20views&color=0e75b6&style=plastic" alt="joaquincerutti" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=joaquincerutti&label=Visitas%20al%20perfil&color=0e75b6&style=plastic" alt="joaquincerutti" /> </p>
 
-## 🔥 Streak Stats
+## 🔥 Estadísticas de actividad
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=joaquincerutti&theme=algolia" alt="joaquincerutti"  /></p>
 
-## 🛠️ My Skills
+## 🛠️ Mis habilidades
 
-### 👉 Programming languages
+### 👉 Lenguajes de programación
 <p align="left"> 
   &emsp;
   <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
@@ -28,7 +28,7 @@
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
 </p>
 
-### 👉 Frontend Development
+### 👉 Desarrollo Frontend
 <p align="left"> 
   &emsp;
   <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
@@ -38,15 +38,17 @@
   <img alt="PowerApps" src="https://img.shields.io/badge/PowerApps-%237F4DA0.svg?logo=microsoft&logoColor=white">
 </p>
 
-### 👉 Databases
+### 👉 Bases de Datos
 <p align="left"> 
   &emsp;
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
   &emsp;
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
+  &emsp;
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white">
 </p>
 
-### 👉 Software & Tools
+### 👉 Software y Herramientas
 <p align="left"> 
   &emsp;
   <img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?logo=google-colab&logoColor=white">
@@ -62,31 +64,31 @@
   <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
 </p>
 
-### 👉 Graphic / Design
+### 👉 Diseño Gráfico / Diagramación
 <p align="left">
   &emsp;
-  <img alt="UML" src="https://img.shields.io/badge/UML-Diagrams-%2300599C.svg">
+  <img alt="UML" src="https://img.shields.io/badge/UML-Diagramas-%2300599C.svg">
   &emsp;
   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=canva&logoColor=white">
 </p>
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
+## 📊 Estadísticas de GitHub (Expandir para ver) 
 
 <details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary><b>💻 Estadísticas de mi perfil</b></summary>
   <br/>
   <p align="center">
-    <img alt="Joaquin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joaquincerutti&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+    <img alt="Estadísticas de Joaquin" src="https://github-readme-stats.vercel.app/api?username=joaquincerutti&show_icons=true&count_private=true&theme=algolia" height="192px"/>
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaquincerutti&show_icons=true&locale=en&layout=compact&theme=algolia" alt="joaquincerutti" height="192px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaquincerutti&show_icons=true&locale=es&layout=compact&theme=algolia" alt="joaquincerutti" height="192px"/>
     <br/>
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+    <b>Nota:</b> Los lenguajes principales reflejan los lenguajes usados en mis repos públicos, no necesariamente el nivel de experiencia.
   </p>
 </details>
 
-## 🙋‍♂️ Let's Connect
+## 🙋‍♂️ Conectemos
 <p align="center">
 	<a href="mailto:ceruttijoaquin850@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/joaquincerutti"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
@@ -95,4 +97,4 @@
 
 <hr/>
 
-* Last Edited on: 10-06-2025
+* Última edición: 22-07-2025
