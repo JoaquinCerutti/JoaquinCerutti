@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+en+Sistemas+de+Información;Desarrollador+Full+Stack;Apasionado+por+la+tecnología;Conocimientos+en+React+%26+NextJS&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Soy estudiante avanzado en ingeniería en sistemas de información, enfocado en el desarrollo full stack con tecnologías modernas. Me apasiona crear soluciones tecnológicas que generen impacto, aprender nuevas herramientas y colaborar en proyectos innovadores. Tengo conocimientos en desarrollo frontend con React y NextJS, y experiencia con lenguajes como Java, JavaScript, Python y SQL.</h4>
+<h4 align="center">Estudiante avanzado en ingeniería en sistemas de información, enfocado en el desarrollo full stack con tecnologías modernas. Me apasiona crear soluciones tecnológicas que generen impacto, aprender nuevas herramientas y colaborar en proyectos innovadores. Tengo conocimientos en desarrollo frontend con React y NextJS, y experiencia con lenguajes como Java, JavaScript, Python y SQL.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joaquincerutti&label=Visitas%20al%20perfil&color=0e75b6&style=plastic" alt="joaquincerutti" /> </p>
 
@@ -97,4 +97,4 @@
 
 <hr/>
 
-* Última edición: 22-07-2025
+* Última edición: 07-09-2025
